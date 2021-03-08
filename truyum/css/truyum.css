@@ -1,0 +1,211 @@
+*{margin:0px;padding:0px}
+body {background-image:url('../images/images.jfif');
+		background-size:cover}
+#bod {border-color:yellow}
+
+#div1 {background-color:#6600cc;
+	   height:65px;
+	   color:white}
+#label {margin-left:20px;
+		font-size:35px;
+		margin-top:20px}
+#icon {font-weight:bold;
+	   font-weight:bold;
+	   margin-top:15px;
+	   margin-left:20px}
+#menu {float:right;
+	  color:white;
+	  font-size:30px;
+	  margin-right:100px;
+	  margin-top:10px}
+
+#table1 {margin-top:148px;
+		 margin-left:180px}
+
+#mainname {font-weight:bold;
+			font-size:30px;display:block;
+			margin-bottom:25px}
+
+.mainclass {padding-right:70px;
+		 padding-bottom:25px}
+
+.mainmoney {text-align:right;
+			padding-right:70px;
+			padding-left:80px;
+			padding-bottom:20px}
+
+
+.no_yes {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:20px}
+
+
+.lundate {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:20px}
+
+.typefood {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:20px}
+
+.yes_no {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:20px}
+
+.action {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:20px}
+		
+#divbtm {background-color:#c0c0c0;
+		 height:36px;
+		 padding-top:23px;margin-top:5px}
+
+/*--------------------------------------------------------------------*/
+
+#div10 {margin-top:146px;
+		margin-left:150px}
+#custname {font-weight:bold;
+			font-size:40px;
+			display:block;
+			margin-bottom:20px;
+			padding-left:140px;
+			}
+.class {padding-right:190px;
+		 padding-bottom:35px;
+		 padding-left:150px;
+		 font-size:20px}
+.price {text-align:right;
+			padding-right:70px;
+			padding-left:40px;
+			padding-bottom:30px;
+			font-size:20px}
+
+
+.delivery {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:30px;
+		 font-size:20px}
+
+
+.category {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:30px;
+		 font-size:20px}
+
+.edit {text-align:center;
+		 padding-right:70px;
+		 padding-bottom:30px;
+		 font-size:20px}
+
+#divbtm1 {background-color:#c0c0c0;
+		 height:40px;
+		 padding-top:23px;margin-top:5px}
+#cart {float:right;
+	  color:white;
+	  font-size:30px;
+	  margin-right:100px;
+	  margin-top:10px}
+
+#menu1 {float:right;
+	  color:white;
+	  font-size:30px;
+	  margin-right:100px;
+	  margin-top:10px}
+
+
+/*------------------------------------------------------------*/
+
+
+.editmenu {height:480px}
+
+#div9 {margin-top:147px;margin-left:320px
+}
+#div8 {width:800px;
+		margin-top:20px}
+#cool {width:790px;
+		margin-bottom:20px;
+		height:30px}
+#div7 {width:100px;
+	   height:50px;
+	   float:left;
+	   margin-right:50px}
+#cool1 {width:80px;
+		height:30px;
+		text-align:right}
+#div6 {width:120px;
+		float:left;
+		margin-right:50px}
+.button1 {float:left;
+		padding:10px 10px 0px 0px}
+
+.aa {margin-right:8px}
+#div5{width:170px;
+	 float:left;
+	 margin-right:50px}
+
+#cool2 {height:30px}
+#div4 {width:60px;
+		float:left;
+		}
+#cool3 {height:30px;
+		width:150px}
+
+#cool4{margin:10px}
+
+#cool5 {height:50px;
+		width:140px;
+		background-color:#6600cc;
+		color:white;
+		font-weight:bold}
+	
+/*----------------------------------------------------*/
+
+#div20 {margin-left:180px;
+		margin-top:146px}
+#cool6 {font-size:50px}
+#cool7 {color:green;
+		font-size:30px;
+		margin-top:30px;
+		display:block}
+/*------------------------------------------------*/
+#div19 {margin-top:146px;
+		margin-left:147px}
+#cool8{font-size:25px;
+		margin-left:450px;
+		margin-bottom:50px;
+		display:block;
+		color:green;
+		font-weight:bold}
+#cool9{margin-left:150px;
+		margin-bottom:0px;
+		font-size:30px;
+		display:block;
+		font-weight:bold}
+
+/*-------------------------------------------------------------*/
+
+#div19 {margin-left:140px;
+		margin-top:146px}
+	
+#cool10 {font-size:30px;
+		font-weight:bold;
+		margin-left:145px;
+		margin-bottom:40px;
+		display:block}
+
+/*----------------------------------------------------------*/
+#cool11 {text-align:center;
+		padding-right:70px;
+		font-size:20px;
+		font-weight:bold}
+#cool12 {text-align:center;
+		padding-right:25px;
+		font-size:20px;
+		font-weight:bold}
+
+/*------------------------------------------------------------*/
+#cool13 {font-size:20px;
+		margin-left:400px;
+		margin-bottom:40px;
+		display:block;
+		color:green}
